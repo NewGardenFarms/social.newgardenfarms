@@ -1,5 +1,6 @@
 ### This is our public blocklist of words we will automaticly block in our forums ###
 ### We ask you the community to help us keep this updated to help you have a safer space on our forums ###
+### Remove first three lines for use with you're discourse server or application ###
 2 girls 1 cup
 2g1c
 3p
